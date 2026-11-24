@@ -21,5 +21,3 @@ Then open http://localhost:8080 in two browser tabs and send a message from one 
 - There is no login. The name is just a text field.
 - The client connects to `http://localhost:8080` directly, so that address has to be changed before it can run anywhere else.
 - Messages are inserted into the page as raw HTML. Fine for a local exercise, but the input would need escaping before anything public.
-# Chat Application with NodeJS Express
- Socket io ile gerçek zamanlı chat uygulaması 
